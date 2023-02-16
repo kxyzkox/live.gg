@@ -1,0 +1,10 @@
+.sidebar1 {
+  float: left;
+  width: 470px
+}
+
+.chat {
+  float: left;
+  width: 1;
+  background: #1c1c1c;
+}
